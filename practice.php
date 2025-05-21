@@ -37,9 +37,4 @@
         print("Please enter a valid number.\n");
     }
 
-    echo "Press any key to continue..";
-    fgetc(STDIN);
-
-    system('cls');
-
 ?>
